@@ -1,0 +1,4 @@
+Jmeno: Jan
+Prijmeni: Smid
+Objem: 86.829
+Povrch: 94.2478
